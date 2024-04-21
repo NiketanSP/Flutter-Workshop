@@ -1,4 +1,9 @@
 # Flutter-Workshop
 1 day flutter workshop conducted by Students web committee.
 
-![screenshot](movieapp/lib/Screenshot 2024-04-11 224145.png)
+1. Note App
+![NoteScreen](NoteScreen1.png)
+![NoteScreen](NoteScreen2.png)
+2. Movie App
+![MovieScreen](MovieScreen1.png)
+![MovieScreen](MovieScreen2.png)
